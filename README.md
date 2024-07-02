@@ -1,5 +1,4 @@
 # Шаблон каталога курса для студентов
-![1](https://github.com/tihasanov/-study_2023-2024_arh-pc/blob/master/labs/lab01/report/image/1.jpg?raw=true)
 ## Скачать репозиторий
 
 git clone --recursive https://github.com/yamadharma/course-directory-student-template.git
